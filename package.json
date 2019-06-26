@@ -1,0 +1,27 @@
+{
+  "name": "chat_app",
+  "version": "1.0.0",
+  "description": "A simple chat application created by Tcoders",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanliwise/Tcoders-chat-app.git"
+  },
+  "keywords": [
+    "chat",
+    "node",
+    "socket.io"
+  ],
+  "author": "Tenacious Coders",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/stanliwise/Tcoders-chat-app/issues"
+  },
+  "homepage": "https://github.com/stanliwise/Tcoders-chat-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
